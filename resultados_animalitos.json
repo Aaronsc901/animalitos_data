@@ -1,5 +1,5 @@
 {
-    "fecha": "2026-05-21 23:04:03",
+    "fecha": "2026-05-21 23:24:05",
     "guacharo_activo": [
         {
             "hora": "8:00 am",
@@ -47,7 +47,7 @@
         },
         {
             "hora": "7:00 pm",
-            "numero": "Sorteo"
+            "numero": "12"
         },
         {
             "hora": "8:00 am",
@@ -145,7 +145,7 @@
         },
         {
             "hora": "7:00 pm",
-            "numero": "Sorteo"
+            "numero": "24"
         },
         {
             "hora": "8:00 am",
@@ -239,7 +239,7 @@
         },
         {
             "hora": "7:00 pm",
-            "numero": "Sorteo"
+            "numero": "7"
         },
         {
             "hora": "8:00 am",
