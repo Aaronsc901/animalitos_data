@@ -1,5 +1,5 @@
 {
-    "fecha": "2026-05-22 12:52:52",
+    "fecha": "2026-05-22 13:12:54",
     "guacharo_activo": [
         {
             "hora": "8:00 am",
@@ -7,11 +7,11 @@
         },
         {
             "hora": "9:00 am",
-            "numero": "Próximo"
+            "numero": "43"
         },
         {
             "hora": "10:00 am",
-            "numero": "Pendiente"
+            "numero": "Próximo"
         },
         {
             "hora": "11:00 am",
@@ -105,11 +105,11 @@
         },
         {
             "hora": "9:00 am",
-            "numero": "Próximo"
+            "numero": "33"
         },
         {
             "hora": "10:00 am",
-            "numero": "Pendiente"
+            "numero": "Próximo"
         },
         {
             "hora": "11:00 am",
@@ -199,11 +199,11 @@
     "lotto_activo": [
         {
             "hora": "9:00 am",
-            "numero": "Próximo"
+            "numero": "32"
         },
         {
             "hora": "10:00 am",
-            "numero": "Pendiente"
+            "numero": "Próximo"
         },
         {
             "hora": "11:00 am",
