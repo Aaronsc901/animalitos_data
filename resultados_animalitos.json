@@ -1,13 +1,13 @@
 {
-    "fecha": "2026-05-22 11:52:46",
+    "fecha": "2026-05-22 12:12:48",
     "guacharo_activo": [
         {
             "hora": "8:00 am",
-            "numero": "Próximo"
+            "numero": "71"
         },
         {
             "hora": "9:00 am",
-            "numero": "Pendiente"
+            "numero": "Próximo"
         },
         {
             "hora": "10:00 am",
@@ -101,11 +101,11 @@
     "la_granjita": [
         {
             "hora": "8:00 am",
-            "numero": "Próximo"
+            "numero": "1"
         },
         {
             "hora": "9:00 am",
-            "numero": "Pendiente"
+            "numero": "Próximo"
         },
         {
             "hora": "10:00 am",
